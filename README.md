@@ -1,2 +1,2 @@
-# Bioinformatics-portfolio
-Pharmacogenomics and bioinformatics projects
+
+  bioinformatics student with  pharmacy background. I can work on pharmacogenomics reports.
